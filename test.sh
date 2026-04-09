@@ -5,3 +5,6 @@ echo "hello"
 
 echo "hi"
 #this is second script
+
+echo "hello"
+# added third script
